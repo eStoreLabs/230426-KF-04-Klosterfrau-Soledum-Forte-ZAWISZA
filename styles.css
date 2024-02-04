@@ -1,16 +1,16 @@
 @font-face {
   font-family: "Montserrat Bold";
-  src: url("https://github.com/eStoreLabs/230426-KF-04-Klosterfrau-Soledum-Forte-ZAWISZA/fonts/Montserrat-Bold.ttf") format("truetype");
+  src: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Soledum-Forte-ZAWISZA/fonts/Montserrat-Bold.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: "Montserrat Extra Bold";
-  src: url("https://github.com/eStoreLabs/230426-KF-04-Klosterfrau-Soledum-Forte-ZAWISZA/fonts/Montserrat-ExtraBold.ttf") format("truetype");
+  src: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Soledum-Forte-ZAWISZA/fonts/Montserrat-ExtraBold.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: "Montserrat Regular";
-  src: url("https://github.com/eStoreLabs/230426-KF-04-Klosterfrau-Soledum-Forte-ZAWISZA/fonts/Montserrat-Regular.ttf") format("truetype");
+  src: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Soledum-Forte-ZAWISZA/fonts/Montserrat-Regular.ttf") format("truetype");
   font-display: swap;
 }
 
@@ -104,7 +104,7 @@
  position: absolute;
  top: -10px;
  left: -40px;
- background: url("https://github.com/eStoreLabs/230426-KF-04-Klosterfrau-Soledum-Forte-ZAWISZA/img/pin.png") no-repeat 0 0;
+ background: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Soledum-Forte-ZAWISZA/img/pin.png") no-repeat 0 0;
  background-size: 40px 40px;
  height: 40px;
  width: 40px;
@@ -268,7 +268,7 @@
   position: absolute;
   top: -12px;
   left: -35px;
-  background: url("https://github.com/eStoreLabs/230426-KF-04-Klosterfrau-Soledum-Forte-ZAWISZA/img/pin.png") no-repeat 0 0;
+  background: url("https://estorelabs.github.io/230426-KF-04-Klosterfrau-Soledum-Forte-ZAWISZA/img/pin.png") no-repeat 0 0;
   background-size: 30px 30px;
   height: 30px;
   width: 30px;
