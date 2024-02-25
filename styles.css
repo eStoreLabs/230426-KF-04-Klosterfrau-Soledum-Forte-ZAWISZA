@@ -112,7 +112,7 @@
 
 #es-soledum.es-soledum .es-signs {
   position: relative;
-  min-height: 135vw;
+  min-height: 155vw;
 }
 
 #es-soledum.es-soledum .es-signs__title {
@@ -129,7 +129,7 @@
 #es-soledum.es-soledum .es-signs__subtitle {
   font-family: "Montserrat Regular", sans-serif;
   font-weight: 400;
-  font-size: clamp(16px, 3vw, 52px);
+  font-size: clamp(16px, 4vw, 52px);
   line-height: inherit;
   margin: 0;
   padding: 0;
